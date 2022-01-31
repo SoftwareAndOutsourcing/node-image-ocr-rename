@@ -1,0 +1,16 @@
+{
+  "name": "node-image-ocr-rename",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node rename"
+  },
+  "author": "SoftwareAndOutsourcing",
+  "license": "MIT",
+  "description": "Simple Node.js script to rename images based on their text using Tesseract OCR",
+  "homepage": "https://github.com/SoftwareAndOutsourcing/node-image-ocr-rename",
+  "repository": "github:SoftwareAndOutsourcing/node-image-ocr-rename",
+  "type": "module",
+  "dependencies": {
+    "execa": "^6.0.0"
+  }
+}
