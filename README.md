@@ -10,6 +10,8 @@ Install dependencies:
 
 ### Usage
 
-Place images in the `input` folder, then run the script:
+Then run the script with:
 
-`npm start`
+`npm start input-folder output-folder`
+
+The scritp will overwrite existing files.
