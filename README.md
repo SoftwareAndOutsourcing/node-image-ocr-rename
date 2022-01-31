@@ -14,4 +14,4 @@ Then run the script with:
 
 `npm start input-folder output-folder`
 
-The scritp will overwrite existing files.
+The script will overwrite existing files.
